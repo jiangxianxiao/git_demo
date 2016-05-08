@@ -1,3 +1,4 @@
 git tracks changes
 git is a distributed version control system.
 git has a mutable index called staged.
+creating a new branch is quick.
